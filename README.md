@@ -10,4 +10,5 @@ I faced many challenges during this project. For one, I could not find a lot of 
 
 This was part of our graduation requirement for the Middle Years Programme, where we were offered the opportunity to apply our existing skills to create a significant piece of work over the Year 10/11 summer.
 
-### Screenshots
+### Showcase
+<video src="FinalProductVideo.mov" width="320" height="200" controls preload></video>
